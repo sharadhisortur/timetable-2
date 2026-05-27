@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>student learning portal</title>
+<head>
+<body bgcolor="pink" text="black">
+
+<h1>student learning portal</h1>
+<h2>subject offered this semester</h2>
+<h3>1.digital system and design</h3>
+<u1>
+	<li>unit1:logic gates</li>
+	<li>unit2:combinational circuits</li>
+	<li>unit3:sequential circuits</li>
+</u1>
+
+<h3>2.computer organization </h3>
+<u1>
+	<li>unit1:CPU Architecture</li>
+	<li>unit2:Memory system</li>
+	<li>unit3:I/O system </li>
+</u1>
+
+<h3>3.web technology </h3>
+<u1>
+	<li>unit1:HTML basics </li>
+	<li>unit2:CSS styling</li>
+	<li>unit3:java script</li>
+</u1>
+
+<h2>Important Academic Terms</h2>
+<d1>
+	<dt>credit</dt>
+	<dd>weightage given to a course based on hours.</dd>
+
+	<dt>CGPA</dt>
+	<dd>Cumulative Grade Point Average</dd>
+
+	<dt>Semester</dt>
+	<dd>A half-year Academic term.</dd>
+</d1>
+
+<h2>Useful links</h2>
+<p>
+
+</p>
+
+<p>
+   <a href="https:// www.nptel.ac.in" target="_blank">
+</a>
+</p>
+
+</body>
+</html>
